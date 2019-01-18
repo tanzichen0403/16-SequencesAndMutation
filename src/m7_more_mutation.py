@@ -308,7 +308,7 @@ def MUTATE_circle(circle, color, n):
     #          Make sure that you understand it.
     #          Then, IMPLEMENT and test THIS FUNCTION
     #          (using the above code for testing).
-    # HINT: This function can be implemented with just TWO lines of code.
+    # HINT: This function cAan be implemented with just TWO lines of code.
     circle.fill_color = color
     circle.center.x += n
 
